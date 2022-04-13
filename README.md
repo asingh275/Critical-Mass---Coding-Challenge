@@ -1,4 +1,4 @@
-# Critical-Mass---Coding-Challenge
+# Critical-Mass-Application
 
 ## Projects
 1. __Another Covid Tracker:__   
